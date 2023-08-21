@@ -1,0 +1,1 @@
+create method with 5 parameters (iD,Name,Age,Ph.no,addr) use scanner class to get and show the input as result

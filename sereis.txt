@@ -1,0 +1,2 @@
+program to cheack the sum of numbers in array is 17 and show the numbers
+program to show the prime numbers from 1 to 1000

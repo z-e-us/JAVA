@@ -1,0 +1,1 @@
+get details from user(name,email,phone),after 10 inputs ask for referal code;

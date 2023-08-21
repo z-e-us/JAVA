@@ -1,0 +1,2 @@
+get 2 numbers and a character from users and do operations on the numbers according to the input character (if input character is + get the sum of numbers) 
+using switch (include all 5 operations including modulus operation).And repeat the process until user give no as input. USse do while for loop.

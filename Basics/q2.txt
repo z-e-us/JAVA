@@ -1,0 +1,5 @@
+1) create method and constructors with,without and with more than 1 parameter 
+create total of 3 methods and 3 constructors
+and shoẇ output for all 6
+2) create calculator using methods for each operation 
+with parameters

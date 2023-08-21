@@ -1,0 +1,1 @@
+method calcuator to show all operatin including modules in java
